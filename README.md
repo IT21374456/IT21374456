@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IT21374456
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on any project related to C, C++
+- 📫 How to reach me 077723834
